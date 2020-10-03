@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Moustafa Sebaa"
   avatar           : "Moustafa_Sebaa.jpg"
   bio              : "Eager to learn about Python, Image Processing, DEM etc... ! I am also open to collaboration & exchange."
   location         : "Grenoble"
   employer         : "University of Grenoble Alpes"
   pubmed           : #" " 
   googlescholar    : #" "
-  email            : "sebaamoustafa@gmail.com
+  email            : "sebaamoustafa@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Moustafa_Sebaa"
   uri              :
   bitbucket        :
